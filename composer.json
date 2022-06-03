@@ -1,0 +1,15 @@
+{
+  "name": "sabberhossain/e-coder",
+  "authors": [
+    {
+      "name": "Sabber Hossain",
+      "email": "sabber.cse.php@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
